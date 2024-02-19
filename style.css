@@ -1,0 +1,21 @@
+body {
+  max-width: 1280px;
+  display: flex;
+  flex-direction: row;
+}
+section {
+  width: 30%;
+}
+
+table {
+  margin: 0 auto;
+  width: 40%;
+}
+
+td {
+  border: 1px solid black;
+  height: 6rem;
+  width: 20%;
+  text-align: center;
+  cursor: pointer;
+}
